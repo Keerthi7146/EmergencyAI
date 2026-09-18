@@ -43,7 +43,7 @@ export function IntroAnimation() {
       {/* Container for logo (behind ambulance initially) */}
       <div className="intro-logo-container">
         <div className="intro-logo">
-          <img src="/emergencyai-logo.png" alt="EmergencyAI Logo" className="brand-logo-img" style={{ maxWidth: '400px', width: '100%', height: 'auto', objectFit: 'contain' }} />
+          <img src={`${import.meta.env.BASE_URL}emergencyai-logo.png`} alt="EmergencyAI Logo" className="brand-logo-img" style={{ maxWidth: '400px', width: '100%', height: 'auto', objectFit: 'contain' }} />
         </div>
       </div>
 
@@ -57,7 +57,7 @@ export function IntroAnimation() {
         <div className="headlight left-headlight"></div>
         <div className="headlight right-headlight"></div>
         
-        <img src="/tn108_transparent.png" alt="TN 108 Ambulance" className="intro-ambulance-img" />
+        <img src={`${import.meta.env.BASE_URL}tn108_transparent.png`} alt="TN 108 Ambulance" className="intro-ambulance-img" />
       </div>
 
       {/* Fade out overlay */}

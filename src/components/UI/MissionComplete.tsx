@@ -13,7 +13,7 @@ export function MissionComplete() {
     <div className="mission-complete-overlay">
       <div className="mission-complete-card">
         <div className="mc-header" style={{ display: 'flex', justifyContent: 'center' }}>
-          <img src="/emergencyai-logo.png" alt="EmergencyAI Logo" style={{ height: '32px', width: 'auto', objectFit: 'contain' }} />
+          <img src={`${import.meta.env.BASE_URL}emergencyai-logo.png`} alt="EmergencyAI Logo" style={{ height: '32px', width: 'auto', objectFit: 'contain' }} />
         </div>
 
         <div className="mc-success-icon">
@@ -24,7 +24,7 @@ export function MissionComplete() {
         <p className="mc-subtitle">Every second counts. You made it.</p>
 
         <div className="mc-ambulance-wrapper">
-          <img src="/tn108_transparent.png" alt="Ambulance" className="mc-ambulance" />
+          <img src={`${import.meta.env.BASE_URL}tn108_transparent.png`} alt="Ambulance" className="mc-ambulance" />
         </div>
 
         <div className="mc-summary">

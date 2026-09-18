@@ -88,7 +88,7 @@ const destIcon = createIcon('🏥', '#ef4444', '#7f1d1d');
 const getAmbulanceIcon = (bearing: number = 0) => {
   return L.divIcon({
     className: 'ambulance-marker',
-    html: `<img src="/tn108_transparent.png" style="width: 40px; height: 40px; object-fit: contain; transform: translate(-50%, -50%) rotate(${bearing}deg); transition: transform 0.2s ease-in-out;" />`,
+    html: `<img src="${import.meta.env.BASE_URL}tn108_transparent.png" style="width: 40px; height: 40px; object-fit: contain; transform: translate(-50%, -50%) rotate(${bearing}deg); transition: transform 0.2s ease-in-out;" />`,
     iconSize: [0, 0],
   });
 };

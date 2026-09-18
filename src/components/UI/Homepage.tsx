@@ -21,7 +21,7 @@ export function Homepage() {
   return (
     <div className="homepage-container">
       {/* Background Image Layer */}
-      <div className="homepage-background" style={{ backgroundImage: 'url(/hero-bg.jpg)' }}>
+      <div className="homepage-background" style={{ backgroundImage: `url(${import.meta.env.BASE_URL}hero-bg.jpg)` }}>
         <div className="homepage-bg-gradient"></div>
       </div>
 
@@ -29,7 +29,7 @@ export function Homepage() {
         {/* Header */}
         <header className="homepage-header">
           <div className="brand-group">
-            <img src="/emergencyai-logo.png" alt="EmergencyAI Logo" style={{ height: '56px', width: 'auto', objectFit: 'contain' }} />
+            <img src={`${import.meta.env.BASE_URL}emergencyai-logo.png`} alt="EmergencyAI Logo" style={{ height: '56px', width: 'auto', objectFit: 'contain' }} />
           </div>
           <nav className="homepage-nav">
             <a href="#" className="active-nav">Home</a>

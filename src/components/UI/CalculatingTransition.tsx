@@ -28,7 +28,7 @@ export function CalculatingTransition() {
     <div className="calc-container">
       <div className="calc-content">
         <div className="calc-brand" style={{ display: 'flex', justifyContent: 'center', marginBottom: '24px' }}>
-          <img src="/emergencyai-logo.png" alt="EmergencyAI Logo" style={{ height: '48px', width: 'auto', objectFit: 'contain' }} />
+          <img src={`${import.meta.env.BASE_URL}emergencyai-logo.png`} alt="EmergencyAI Logo" style={{ height: '48px', width: 'auto', objectFit: 'contain' }} />
         </div>
 
         <h2 className="calc-title">ANALYZING EMERGENCY ROUTE</h2>
@@ -63,7 +63,7 @@ export function CalculatingTransition() {
         <div className="calc-progress-wrapper">
           <div className="calc-progress-track">
             <img 
-              src="/tn108_transparent.png" 
+              src={`${import.meta.env.BASE_URL}tn108_transparent.png`} 
               alt="Ambulance" 
               className="calc-ambulance" 
               style={{ left: `${Math.min((step / 6) * 100, 100)}%` }}
