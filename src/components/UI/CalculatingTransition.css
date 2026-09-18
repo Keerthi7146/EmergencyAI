@@ -1,0 +1,110 @@
+.calc-container {
+  position: fixed;
+  inset: 0;
+  background-color: #0f172a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 50;
+}
+
+.calc-content {
+  background: linear-gradient(180deg, #1e293b, #0f172a);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 48px;
+  border-radius: 16px;
+  width: 500px;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+}
+
+.calc-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: white;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  margin-bottom: 32px;
+  justify-content: center;
+}
+
+.calc-title {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.calc-steps {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-bottom: 48px;
+}
+
+.calc-step {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  color: #64748b;
+  font-size: 0.95rem;
+  transition: all 0.3s ease;
+  transform: translateX(-10px);
+  opacity: 0.5;
+}
+
+.calc-step.active {
+  color: white;
+  transform: translateX(0);
+  opacity: 1;
+}
+
+/* Progress Tracker */
+.calc-progress-wrapper {
+  margin-top: auto;
+}
+
+.calc-progress-track {
+  width: 100%;
+  height: 4px;
+  background-color: #334155;
+  border-radius: 4px;
+  position: relative;
+  margin-bottom: 16px;
+}
+
+.calc-progress-fill {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #ef4444;
+  border-radius: 4px;
+  transition: width 0.3s ease-in-out;
+  box-shadow: 0 0 10px rgba(239, 68, 68, 0.5);
+}
+
+.calc-ambulance {
+  position: absolute;
+  top: -30px; /* Sits above the line */
+  width: 50px;
+  height: auto;
+  transform: translateX(-50%); /* Center over current progress point */
+  transition: left 0.3s ease-in-out;
+  z-index: 10;
+}
+
+.calc-progress-text {
+  color: #94a3b8;
+  font-size: 0.85rem;
+  text-align: center;
+  animation: pulseText 1.5s infinite alternate;
+}
+
+@keyframes pulseText {
+  0% { opacity: 0.6; }
+  100% { opacity: 1; }
+}

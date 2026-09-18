@@ -1,0 +1,370 @@
+.homepage-container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #0f172a;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* Background Layer */
+.homepage-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: -1;
+}
+
+.homepage-bg-gradient {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(15,23,42,1) 0%, rgba(15,23,42,0.95) 30%, rgba(15,23,42,0.6) 60%, rgba(15,23,42,0) 100%);
+}
+
+.homepage-content-layer {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  z-index: 1;
+}
+
+/* Header */
+.homepage-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 64px;
+  background: transparent;
+}
+
+.brand-group {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.brand-text-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.brand-name {
+  font-size: 1.25rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  color: white;
+}
+
+.brand-tagline {
+  font-size: 0.75rem;
+  color: #94a3b8;
+  letter-spacing: 0.05em;
+}
+
+.homepage-nav {
+  display: flex;
+  gap: 32px;
+}
+
+.homepage-nav a {
+  color: #94a3b8;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 500;
+  transition: color 0.2s;
+  padding-bottom: 4px;
+}
+
+.homepage-nav a:hover, .homepage-nav a.active-nav {
+  color: white;
+}
+
+.homepage-nav a.active-nav {
+  border-bottom: 2px solid #ef4444;
+}
+
+.emergency-mode-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background-color: #ef4444;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.emergency-mode-btn:hover {
+  background-color: #dc2626;
+}
+
+/* Main Content */
+.homepage-main {
+  flex: 1;
+  display: flex;
+  padding: 0 64px;
+  align-items: center;
+}
+
+.homepage-left {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 550px;
+}
+
+.badge {
+  display: inline-block;
+  padding: 6px 16px;
+  background: rgba(30, 41, 59, 0.8);
+  color: #94a3b8;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  margin-bottom: 24px;
+  width: fit-content;
+  border: 1px solid rgba(255,255,255,0.1);
+}
+
+.badge-highlight {
+  color: #ef4444;
+}
+
+.hero-headline {
+  font-size: 3.5rem;
+  font-weight: 800;
+  line-height: 1.1;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.text-accent {
+  color: #ef4444;
+}
+
+.hero-subtext {
+  font-size: 1.15rem;
+  color: #cbd5e1;
+  margin-bottom: 2.5rem;
+  line-height: 1.6;
+}
+
+/* Input Card */
+.input-card {
+  background: rgba(15, 23, 42, 0.85);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 16px;
+  padding: 32px;
+  box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);
+  backdrop-filter: blur(12px);
+}
+
+.input-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: white;
+  margin-bottom: 12px;
+}
+
+.input-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+/* We must make the inner LocationSearch look dark and right-aligned icon */
+.custom-search-input {
+  width: 100%;
+}
+
+.custom-search-input input {
+  width: 100%;
+  padding: 16px 48px 16px 16px !important;
+  font-size: 1rem !important;
+  background-color: rgba(30, 41, 59, 0.6) !important;
+  border: 1px solid rgba(255,255,255,0.1) !important;
+  color: white !important;
+  border-radius: 8px !important;
+}
+
+.custom-search-input input:focus {
+  border-color: #ef4444 !important;
+  box-shadow: 0 0 0 1px #ef4444 !important;
+}
+
+/* Hide the default search icon that comes with LocationSearch if possible, or overlap it */
+.custom-search-input .absolute.left-3 {
+  display: none !important;
+}
+
+.input-icon-right {
+  position: absolute;
+  right: 16px;
+  color: #94a3b8;
+  pointer-events: none;
+}
+
+.primary-button {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 16px;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-top: 32px;
+  transition: all 0.2s;
+  cursor: pointer;
+  border: none;
+}
+
+.primary-button.active {
+  background-color: #ef4444;
+  color: white;
+}
+
+.primary-button.active:hover {
+  background-color: #dc2626;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(239,68,68,0.3);
+}
+
+.primary-button.disabled {
+  background-color: #334155;
+  color: #94a3b8;
+  cursor: not-allowed;
+}
+
+.input-card-footer {
+  margin-top: 24px;
+  text-align: center;
+  font-size: 0.75rem;
+  color: #64748b;
+  font-weight: 500;
+}
+
+.error-message {
+  margin-top: 16px;
+  padding: 12px;
+  background: rgba(239, 68, 68, 0.1);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+  border-radius: 8px;
+  color: #fca5a5;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Bottom Feature Strip */
+.homepage-footer {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+  padding: 24px 64px;
+  background-color: rgba(15, 23, 42, 0.95);
+  border-top: 1px solid rgba(255,255,255,0.05);
+  z-index: 2;
+}
+
+.feature-item {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.feature-icon-wrapper {
+  background-color: rgba(30, 41, 59, 0.8);
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.feature-icon {
+  color: white;
+}
+
+.feature-item h4 {
+  margin: 0 0 4px 0;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: white;
+}
+
+.feature-item p {
+  margin: 0;
+  font-size: 0.8rem;
+  color: #94a3b8;
+}
+
+/* Responsive fixes to fit viewport */
+@media (max-width: 1440px) {
+  .hero-headline {
+    font-size: 3rem;
+  }
+  .homepage-left {
+    max-width: 500px;
+  }
+}
+
+@media (max-height: 850px) {
+  .hero-headline {
+    font-size: 2.8rem;
+    margin-bottom: 0.5rem;
+  }
+  .hero-subtext {
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+  }
+  .input-card {
+    padding: 24px;
+  }
+  .primary-button {
+    margin-top: 24px;
+    padding: 14px;
+  }
+  .homepage-header {
+    padding: 16px 64px;
+  }
+  .homepage-footer {
+    padding: 20px 64px;
+  }
+}
+
+@media (max-height: 768px) {
+  .hero-headline {
+    font-size: 2.5rem;
+  }
+  .input-group {
+    margin-top: 16px !important;
+  }
+}

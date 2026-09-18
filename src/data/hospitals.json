@@ -1,0 +1,3117 @@
+[
+  {
+    "id": "1",
+    "name": "Hospital Road",
+    "latitude": 13.0300525,
+    "longitude": 80.2266241,
+    "address": "Chennai, Tamil Nadu",
+    "locality": "Adyar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600022",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Hospital Road"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Hospital Lane",
+    "latitude": 13.019794,
+    "longitude": 80.2181252,
+    "address": "Chennai, Tamil Nadu",
+    "locality": "Kodambakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600015",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Hospital Lane"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Tamil Nadu Government Dental College & Hospital, Chennai",
+    "latitude": 13.084889,
+    "longitude": 80.2826483,
+    "address": "Muthuswamy Road, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600009",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Tamil Nadu Government Dental College & Hospital, Chennai"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Royapettah Government Hospital",
+    "latitude": 13.0544912,
+    "longitude": 80.2651496,
+    "address": "Peters Road, Chennai, Tamil Nadu",
+    "locality": "Teynampet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600014",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Royapettah Government Hospital"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Fortis Malar Hospital",
+    "latitude": 13.0101759,
+    "longitude": 80.2586997,
+    "address": "PS Road, Chennai, Tamil Nadu",
+    "locality": "Adyar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600020",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Fortis Malar Hospital"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Madras Medical Mission Hospital - Institute of Cardio Vascular Diseases",
+    "latitude": 13.0859961,
+    "longitude": 80.1870589,
+    "address": "Seethakathi Street, Chennai, Tamil Nadu",
+    "locality": "Mogappair East",
+    "city": "Chennai",
+    "district": "Ambattur",
+    "pincode": "600037",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Madras Medical Mission Hospital - Institute of Cardio Vascular Diseases"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Sir Ivan Stedford Hospital",
+    "latitude": 13.125265,
+    "longitude": 80.1442779,
+    "address": "Chennai - Tiruttani - Renigunta Road, Tamil Nadu",
+    "locality": "Ward 81",
+    "city": "Chennai",
+    "district": "Ambattur",
+    "pincode": "600062",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Sir Ivan Stedford Hospital"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Government Hospital of Thoracic Medicine",
+    "latitude": 12.9422421,
+    "longitude": 80.1295311,
+    "address": "Grand Southern Trunk Road, Tambaram, Tamil Nadu",
+    "locality": "East Tambaram",
+    "city": "Tambaram",
+    "district": "Tambaram",
+    "pincode": "600059",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital of Thoracic Medicine"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Tamil Nadu Government Multi Super Speciality Hospital",
+    "latitude": 13.0694592,
+    "longitude": 80.273745,
+    "address": "Swami Sivananda Salai, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600005",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Tamil Nadu Government Multi Super Speciality Hospital"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Chennai Urology & Robotics Institute",
+    "latitude": 12.9520763,
+    "longitude": 80.2412393,
+    "address": "Rajiv Gandhi Salai, Tamil Nadu",
+    "locality": "Thoraipakkam",
+    "city": "Chennai",
+    "district": "Sholinganallur",
+    "pincode": "600096",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Chennai Urology & Robotics Institute"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Rajiv Gandhi Government General Hospital",
+    "latitude": 13.0806077,
+    "longitude": 80.2773314,
+    "address": "Stanley Viaduct, Chennai, Tamil Nadu",
+    "locality": "Park Town",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600003",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Rajiv Gandhi Government General Hospital",
+      "RGGGH",
+      "GH",
+      "General Hospital",
+      "Rajiv Gandhi"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Egmore Eye Hospital",
+    "latitude": 13.0703627,
+    "longitude": 80.2600948,
+    "address": "Rukmani Lakshmipathi Road, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600008",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Egmore Eye Hospital"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Poonamallee Government Hospital Metro",
+    "latitude": 13.049712,
+    "longitude": 80.1019976,
+    "address": "Chennai - Chittoor - Bangalore Road (Old NH4), Poonamallee, Tamil Nadu",
+    "locality": "Karayanchavadi",
+    "city": "Poonamallee",
+    "district": "Poonamallee",
+    "pincode": "600056",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Poonamallee Government Hospital Metro"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "General Hospital Road",
+    "latitude": 13.0810311,
+    "longitude": 80.2710523,
+    "address": "Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600012",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "General Hospital Road"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Naval Hospital 2nd Street",
+    "latitude": 13.0831441,
+    "longitude": 80.2678048,
+    "address": "Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600012",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Naval Hospital 2nd Street"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Naval Hospital 1st Street",
+    "latitude": 13.0841237,
+    "longitude": 80.2672494,
+    "address": "Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600012",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Naval Hospital 1st Street"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Naval Hospital Road",
+    "latitude": 13.0822699,
+    "longitude": 80.2668756,
+    "address": "Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600012",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Naval Hospital Road"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Naval Hospital 7th Street",
+    "latitude": 13.0831121,
+    "longitude": 80.2664274,
+    "address": "Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600012",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Naval Hospital 7th Street"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Government Medical College Hospital",
+    "latitude": 13.0674194,
+    "longitude": 80.274923,
+    "address": "Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Medical College Hospital"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Royapettah Government Hospital Metro Station",
+    "latitude": 13.0547217,
+    "longitude": 80.2640725,
+    "address": "Chennai, Tamil Nadu",
+    "locality": "Teynampet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Royapettah Government Hospital Metro Station"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "es hospital Street",
+    "latitude": 13.1165802,
+    "longitude": 80.2328327,
+    "address": "Chennai, Tamil Nadu",
+    "locality": "Ward 68",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600082",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "es hospital Street"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Vetenaz Hospital Road",
+    "latitude": 13.0248078,
+    "longitude": 80.2348711,
+    "address": "Chennai, Tamil Nadu",
+    "locality": "Adyar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600022",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Vetenaz Hospital Road"
+    ]
+  },
+  {
+    "id": "23",
+    "name": "RMS Ropheka Multi Speciality Hospital",
+    "latitude": 13.2022006,
+    "longitude": 80.2643695,
+    "address": "Vichoor Road, Manali New Town, Chennai, Tamil Nadu",
+    "locality": "Ward 16",
+    "city": "Chennai",
+    "district": "Madhavaram",
+    "pincode": "600103",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "RMS Ropheka Multi Speciality Hospital"
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Military Hospital Road",
+    "latitude": 13.0182207,
+    "longitude": 80.1960926,
+    "address": "St. Thomas Mount Cantonment, Tamil Nadu",
+    "locality": "Nazarethpuram",
+    "city": "St. Thomas Mount Cantonment",
+    "district": "Alandur",
+    "pincode": "600016",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Military Hospital Road"
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Miot International Hospital road",
+    "latitude": 13.0240084,
+    "longitude": 80.1864286,
+    "address": "Tamil Nadu",
+    "locality": "Ward 155",
+    "city": "Chennai",
+    "district": "Ambattur",
+    "pincode": "600089",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Miot International Hospital road"
+    ]
+  },
+  {
+    "id": "26",
+    "name": "crossing Miot Hospital",
+    "latitude": 13.0204426,
+    "longitude": 80.1851361,
+    "address": "Tamil Nadu",
+    "locality": "Ward 157",
+    "city": "Chennai",
+    "district": "Alandur",
+    "pincode": "600116",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "crossing Miot Hospital"
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Appolo Hospital Vanagram",
+    "latitude": 13.0705726,
+    "longitude": 80.1503759,
+    "address": "Thiruverkadu, Tamil Nadu",
+    "locality": "Vanagaram",
+    "city": "Thiruverkadu",
+    "district": "Ambattur",
+    "pincode": "600095",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Appolo Hospital Vanagram"
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Kvt Health Speciality Hospital",
+    "latitude": 13.1267531,
+    "longitude": 80.2489796,
+    "address": "Ethiraj Samy Salai, Chennai, Tamil Nadu",
+    "locality": "Tondiarpet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600118",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Kvt Health Speciality Hospital"
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Uma Hospital",
+    "latitude": 13.1345397,
+    "longitude": 80.2058879,
+    "address": "Rajaji Street Extension, Tamil Nadu",
+    "locality": "Ward 32",
+    "city": "Chennai",
+    "district": "Madhavaram",
+    "pincode": "600099",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Uma Hospital"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "எழும்பூர் அரசு மருத்துவமனை",
+    "latitude": 13.0727463,
+    "longitude": 80.2582187,
+    "address": "Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600008",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "எழும்பூர் அரசு மருத்துவமனை"
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Government Hospital",
+    "latitude": 13.068807,
+    "longitude": 80.2672078,
+    "address": "C.P. Mudali Street, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600002",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital"
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Government Hospital For Ladies And Children",
+    "latitude": 13.0590564,
+    "longitude": 80.1928218,
+    "address": "Fifth Main Road, Chennai, Tamil Nadu",
+    "locality": "Ward 145",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600092",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital For Ladies And Children"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Government Hospital, Adyar",
+    "latitude": 12.9979497,
+    "longitude": 80.2562121,
+    "address": "Dr Muthulakshmi Salai, Chennai, Tamil Nadu",
+    "locality": "Adyar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600020",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital, Adyar"
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Government Hospital Alandur",
+    "latitude": 13.0048164,
+    "longitude": 80.2025432,
+    "address": "Vishnu Street, St. Thomas Mount Cantonment, Tamil Nadu",
+    "locality": "St. Thomas Mount Cantonment",
+    "city": "St. Thomas Mount Cantonment",
+    "district": "Alandur",
+    "pincode": "600016",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital Alandur"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Government Hospital, Poonamallee",
+    "latitude": 13.0505086,
+    "longitude": 80.0994701,
+    "address": "Chennai - Chittoor - Bangalore Road (Old NH4), Poonamallee, Tamil Nadu",
+    "locality": "Karayanchavadi",
+    "city": "Poonamallee",
+    "district": "Poonamallee",
+    "pincode": "600056",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital, Poonamallee"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Government Hospital, Tambaram",
+    "latitude": 12.94505,
+    "longitude": 80.13456,
+    "address": "MIT Flyover Ramp, Pallavaram, Tamil Nadu",
+    "locality": "Chromepet",
+    "city": "Pallavaram",
+    "district": "Pallavaram",
+    "pincode": "600045",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital, Tambaram"
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Government Hospital Kadhavoor",
+    "latitude": 13.1783047,
+    "longitude": 80.0612608,
+    "address": "Morai Road, Kilkondaiyur, Tamil Nadu",
+    "locality": "Kilkondaiyur",
+    "city": "Kilkondaiyur",
+    "district": "Ambattur",
+    "pincode": "602024",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital Kadhavoor"
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Government Hospital, Nemam",
+    "latitude": 13.0747057,
+    "longitude": 80.01998,
+    "address": "Chettipadu – Nemam Road, Nemam, Tamil Nadu",
+    "locality": "Nemam",
+    "city": "Nemam",
+    "district": "Poonamallee",
+    "pincode": "600124",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital, Nemam"
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Government Hospital, Velliyur",
+    "latitude": 13.2177207,
+    "longitude": 80.0117462,
+    "address": "Singaperumalkoil - Sriperumbudur - Thiruvallur - Red Hills Road, Thamaraipakkam, Tamil Nadu",
+    "locality": "Thamaraipakkam",
+    "city": "Thamaraipakkam",
+    "district": "Thiruvallur",
+    "pincode": "601103",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital, Velliyur"
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Government Hospital, Gummudipoondi",
+    "latitude": 13.4160912,
+    "longitude": 80.1296667,
+    "address": "Medur - Gummidipoondi Road, Tamil Nadu",
+    "locality": "Chennai",
+    "city": "Chennai",
+    "district": "Ponneri",
+    "pincode": "601201",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital, Gummudipoondi"
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Government Hospital, Uthukottai",
+    "latitude": 13.3327639,
+    "longitude": 79.8983401,
+    "address": "Puttur - Uthukottai - Janappanchatram Road, Uthukottai, Tamil Nadu",
+    "locality": "Uthukottai",
+    "city": "Uthukottai",
+    "district": "Uthukkottai",
+    "pincode": "602026",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital, Uthukottai"
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Government Hospital, Mahabalipuram",
+    "latitude": 12.61773,
+    "longitude": 80.180966,
+    "address": "Pūnjeri, Tamil Nadu",
+    "locality": "Pūnjeri",
+    "city": "Pūnjeri",
+    "district": "Tirukalukundram",
+    "pincode": "603104",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital, Mahabalipuram"
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Government Hospital, Nagalapuram",
+    "latitude": 13.3853083,
+    "longitude": 79.7981355,
+    "address": "Nagalapuram East Road, Nagalapuram, Andhra Pradesh",
+    "locality": "Nagalapuram",
+    "city": "Nagalapuram",
+    "district": "Nagalapuram",
+    "pincode": "517589",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital, Nagalapuram"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Government Hospital Blood Bank Arakonam",
+    "latitude": 13.0850281,
+    "longitude": 79.6647607,
+    "address": "Sadras - Chengalpattu - Kancheepuram - Arakkonam - Tiruthani Road, Arakonam, Tamil Nadu",
+    "locality": "Arakonam",
+    "city": "Arakonam",
+    "district": "Arakonam",
+    "pincode": "631001",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital Blood Bank Arakonam"
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Government Hospital, Kancheepuram",
+    "latitude": 12.83311,
+    "longitude": 79.710257,
+    "address": "Railway Road, Kanchipuram, Tamil Nadu",
+    "locality": "Kanchipuram",
+    "city": "Kanchipuram",
+    "district": "Kanchipuram",
+    "pincode": "631501",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital, Kancheepuram"
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Government Hospital, Madhuranthagam",
+    "latitude": 12.5093491,
+    "longitude": 79.8903597,
+    "address": "Hospital Road, Maduranthakam, Tamil Nadu",
+    "locality": "Maduranthakam",
+    "city": "Maduranthakam",
+    "district": "Maduranthakam",
+    "pincode": "603306",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital, Madhuranthagam"
+    ]
+  },
+  {
+    "id": "47",
+    "name": "Government Hospital, Uthiramerur",
+    "latitude": 12.61502,
+    "longitude": 79.760806,
+    "address": "Bukkathurai - Uthiramerur Road, Uttiramerur, Tamil Nadu",
+    "locality": "Uttiramerur",
+    "city": "Uttiramerur",
+    "district": "Kanchipuram",
+    "pincode": "603406",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Hospital, Uthiramerur"
+    ]
+  },
+  {
+    "id": "48",
+    "name": "Institute of Obstetrics and Gynaecology Government Hospital for Women and Children's Blood Bank",
+    "latitude": 13.0736253,
+    "longitude": 80.259165,
+    "address": "Police Commissioner Office Road, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600008",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Institute of Obstetrics and Gynaecology Government Hospital for Women and Children's Blood Bank"
+    ]
+  },
+  {
+    "id": "49",
+    "name": "Triplicane Government Hospital",
+    "latitude": 13.060986,
+    "longitude": 80.2747981,
+    "address": "Khana Bagh Street, Chennai, Tamil Nadu",
+    "locality": "Teynampet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600005",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Triplicane Government Hospital"
+    ]
+  },
+  {
+    "id": "50",
+    "name": "Government Kilpauk Medical College Hospital Blood Bank",
+    "latitude": 13.0782751,
+    "longitude": 80.2438802,
+    "address": "EVR Periyar Salai, Chennai, Tamil Nadu",
+    "locality": "Kilpauk",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600010",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Kilpauk Medical College Hospital Blood Bank",
+      "KMC",
+      "Kilpauk Hospital"
+    ]
+  },
+  {
+    "id": "51",
+    "name": "Government Stanley Hospital Blood Bank",
+    "latitude": 13.1070229,
+    "longitude": 80.2852656,
+    "address": "Monegar Choultry Road, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600001",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Stanley Hospital Blood Bank",
+      "Stanley Medical College",
+      "Stanley"
+    ]
+  },
+  {
+    "id": "52",
+    "name": "Government RSRM Hospital",
+    "latitude": 13.1088006,
+    "longitude": 80.2890582,
+    "address": "Cemetry Road, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600013",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government RSRM Hospital"
+    ]
+  },
+  {
+    "id": "53",
+    "name": "Government Unani Hospital",
+    "latitude": 13.1129012,
+    "longitude": 80.2957982,
+    "address": "Venkatesan Street, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600013",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Unani Hospital"
+    ]
+  },
+  {
+    "id": "54",
+    "name": "Government Maternity And Child Hospital",
+    "latitude": 13.0991743,
+    "longitude": 80.2301988,
+    "address": "1st Main Road, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600023",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Maternity And Child Hospital"
+    ]
+  },
+  {
+    "id": "55",
+    "name": "Government child birth Hospital",
+    "latitude": 13.0765547,
+    "longitude": 80.2245689,
+    "address": "2nd Cross Street West, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600030",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government child birth Hospital"
+    ]
+  },
+  {
+    "id": "56",
+    "name": "Government Peripheral Hospital",
+    "latitude": 13.1259344,
+    "longitude": 80.2866858,
+    "address": "Sennaiamman Koil Street, Chennai, Tamil Nadu",
+    "locality": "Tondiarpet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600081",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Peripheral Hospital"
+    ]
+  },
+  {
+    "id": "57",
+    "name": "Government Yoga And Naturopathy Medical College & Hospital",
+    "latitude": 13.07553,
+    "longitude": 80.2202914,
+    "address": "P.P. Garden 5th Street, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600029",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Yoga And Naturopathy Medical College & Hospital"
+    ]
+  },
+  {
+    "id": "58",
+    "name": "Anna Nagar Government Hospital",
+    "latitude": 13.0954671,
+    "longitude": 80.2197743,
+    "address": "New Avadi Road, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600102",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Anna Nagar Government Hospital"
+    ]
+  },
+  {
+    "id": "59",
+    "name": "Tiruvottiyur Government Hospital",
+    "latitude": 13.1575847,
+    "longitude": 80.301244,
+    "address": "Chennai - Ennore Road, Tamil Nadu",
+    "locality": "Ward 11",
+    "city": "Chennai",
+    "district": "Madhavaram",
+    "pincode": "600019",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Tiruvottiyur Government Hospital"
+    ]
+  },
+  {
+    "id": "60",
+    "name": "MMC Government Hospital",
+    "latitude": 13.1633885,
+    "longitude": 80.2438523,
+    "address": "Madhavaram Milk Colony Road, Tamil Nadu",
+    "locality": "Ward 27",
+    "city": "Chennai",
+    "district": "Madhavaram",
+    "pincode": "600051",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "MMC Government Hospital"
+    ]
+  },
+  {
+    "id": "61",
+    "name": "Chinna Porur Government Hospital",
+    "latitude": 13.0369528,
+    "longitude": 80.169935,
+    "address": "Hospital Road, Tamil Nadu",
+    "locality": "Ward 152",
+    "city": "Chennai",
+    "district": "Ambattur",
+    "pincode": "600089",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Chinna Porur Government Hospital"
+    ]
+  },
+  {
+    "id": "62",
+    "name": "Government Veterinary Hospital",
+    "latitude": 12.9408489,
+    "longitude": 80.1385356,
+    "address": "Chitlapakkam 2nd Main Road, Tambaram, Tamil Nadu",
+    "locality": "Chitlapakkam",
+    "city": "Tambaram",
+    "district": "Tambaram",
+    "pincode": "600064",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government Veterinary Hospital"
+    ]
+  },
+  {
+    "id": "63",
+    "name": "Government District Headquarters Hospital",
+    "latitude": 12.9414158,
+    "longitude": 80.1304762,
+    "address": "Grand Southern Trunk Road, Tambaram, Tamil Nadu",
+    "locality": "East Tambaram",
+    "city": "Tambaram",
+    "district": "Tambaram",
+    "pincode": "600059",
+    "operator": "",
+    "operatorType": "Government",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Government District Headquarters Hospital"
+    ]
+  },
+  {
+    "id": "64",
+    "name": "AK Maternity & Medical center",
+    "latitude": 12.9337555,
+    "longitude": 80.1396489,
+    "address": "Raghavendra Street, chennai, Tamil Nadu",
+    "locality": "Chitlapakkam",
+    "city": "chennai",
+    "district": "Tambaram",
+    "pincode": "600064",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "AK Maternity & Medical center"
+    ]
+  },
+  {
+    "id": "65",
+    "name": "Ritherdon Nursing Home",
+    "latitude": 13.0815684,
+    "longitude": 80.2587748,
+    "address": "Ritherdon Road, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600007",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Ritherdon Nursing Home"
+    ]
+  },
+  {
+    "id": "66",
+    "name": "Dr Ravishankars Eye Clinic and Nursing Home",
+    "latitude": 13.0872141,
+    "longitude": 80.2596062,
+    "address": "Purasaiwalkam Flyover, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600112",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Dr Ravishankars Eye Clinic and Nursing Home"
+    ]
+  },
+  {
+    "id": "67",
+    "name": "Sundaravadanan Nursing Home",
+    "latitude": 13.0793555,
+    "longitude": 80.2560469,
+    "address": "EVR Periyar Salai, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600010",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Sundaravadanan Nursing Home"
+    ]
+  },
+  {
+    "id": "68",
+    "name": "Janaki E.N.T. Nursing Home",
+    "latitude": 13.0970567,
+    "longitude": 80.2821958,
+    "address": "Nagamani Garden Street, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600001",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Janaki E.N.T. Nursing Home"
+    ]
+  },
+  {
+    "id": "69",
+    "name": "Lister Nursing Home",
+    "latitude": 13.0644964,
+    "longitude": 80.2730508,
+    "address": "Appavu Street, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600002",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Lister Nursing Home"
+    ]
+  },
+  {
+    "id": "70",
+    "name": "Akn Nursing Home",
+    "latitude": 13.0836428,
+    "longitude": 80.2462569,
+    "address": "Thambhuswamy Road, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600010",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Akn Nursing Home"
+    ]
+  },
+  {
+    "id": "71",
+    "name": "Nambi Nursing Home and Research Centre",
+    "latitude": 13.0576423,
+    "longitude": 80.2723642,
+    "address": "Devaraja Mudali Street, Chennai, Tamil Nadu",
+    "locality": "Teynampet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "603001",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Nambi Nursing Home and Research Centre"
+    ]
+  },
+  {
+    "id": "72",
+    "name": "Dr. Meera Nursing Home",
+    "latitude": 13.086608,
+    "longitude": 80.2468979,
+    "address": "Purasawalkam High Road, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600010",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Dr. Meera Nursing Home"
+    ]
+  },
+  {
+    "id": "73",
+    "name": "Hemakamal Nursing Home",
+    "latitude": 13.1069544,
+    "longitude": 80.2796126,
+    "address": "Kathbada Road, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600001",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Hemakamal Nursing Home"
+    ]
+  },
+  {
+    "id": "74",
+    "name": "Angel Nursing Home, Washermenpet",
+    "latitude": 13.1116559,
+    "longitude": 80.2847452,
+    "address": "Telugu Street, Chennai, Tamil Nadu",
+    "locality": "Tondiarpet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600021",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Angel Nursing Home, Washermenpet"
+    ]
+  },
+  {
+    "id": "75",
+    "name": "Shyamala Nursing Home, Chennai",
+    "latitude": 13.1101185,
+    "longitude": 80.2819745,
+    "address": "West Cemetry Road, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600021",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Shyamala Nursing Home, Chennai"
+    ]
+  },
+  {
+    "id": "76",
+    "name": "Julian Nursing Home",
+    "latitude": 13.1063124,
+    "longitude": 80.2506946,
+    "address": "Perambur High Road, Chennai, Tamil Nadu",
+    "locality": "Ward 70",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600012",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Julian Nursing Home"
+    ]
+  },
+  {
+    "id": "77",
+    "name": "Ishwarya Nursing Home",
+    "latitude": 13.1129411,
+    "longitude": 80.2822602,
+    "address": "Kuresan Street, Chennai, Tamil Nadu",
+    "locality": "Tondiarpet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600021",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Ishwarya Nursing Home"
+    ]
+  },
+  {
+    "id": "78",
+    "name": "Padma Clinic And Nursing Home",
+    "latitude": 13.0768865,
+    "longitude": 80.2351539,
+    "address": "EVR Periyar Salai, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600010",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Padma Clinic And Nursing Home"
+    ]
+  },
+  {
+    "id": "79",
+    "name": "Josephs Nursing Home",
+    "latitude": 13.0739408,
+    "longitude": 80.2357346,
+    "address": "Dr. Gurusamy Road, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600031",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Josephs Nursing Home"
+    ]
+  },
+  {
+    "id": "80",
+    "name": "Seethapathy Nursing Home",
+    "latitude": 13.0489087,
+    "longitude": 80.2645898,
+    "address": "Royapettah High Road, Chennai, Tamil Nadu",
+    "locality": "Teynampet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600014",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Seethapathy Nursing Home"
+    ]
+  },
+  {
+    "id": "81",
+    "name": "Regina Nursing Home",
+    "latitude": 13.0863886,
+    "longitude": 80.2339844,
+    "address": "5th Street, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600010",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Regina Nursing Home"
+    ]
+  },
+  {
+    "id": "82",
+    "name": "Vasantha Nursing Home",
+    "latitude": 13.1168268,
+    "longitude": 80.2876957,
+    "address": "Sanjeevarayan Koil Street, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600012",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Vasantha Nursing Home"
+    ]
+  },
+  {
+    "id": "83",
+    "name": "Ranga Nursing Home",
+    "latitude": 13.1192346,
+    "longitude": 80.2857643,
+    "address": "Thiruvottriyur High Road, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600021",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Ranga Nursing Home"
+    ]
+  },
+  {
+    "id": "84",
+    "name": "Padma Clinic & Nursing Home",
+    "latitude": 13.076912,
+    "longitude": 80.233925,
+    "address": "New Avadi Road, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600010",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Padma Clinic & Nursing Home"
+    ]
+  },
+  {
+    "id": "85",
+    "name": "Priya Nursing Home, Chennai",
+    "latitude": 13.1192888,
+    "longitude": 80.2889456,
+    "address": "Kappal Polu Street, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600021",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Priya Nursing Home, Chennai"
+    ]
+  },
+  {
+    "id": "86",
+    "name": "Sree Narayana Nursing Home",
+    "latitude": 13.1089757,
+    "longitude": 80.2481371,
+    "address": "Vasan Street, Chennai, Tamil Nadu",
+    "locality": "Ward 70",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600011",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Sree Narayana Nursing Home"
+    ]
+  },
+  {
+    "id": "87",
+    "name": "Subiksha Nursing Home",
+    "latitude": 13.1118191,
+    "longitude": 80.2419198,
+    "address": "Bunder Garden Main Street, Chennai, Tamil Nadu",
+    "locality": "Ward 69",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600011",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Subiksha Nursing Home"
+    ]
+  },
+  {
+    "id": "88",
+    "name": "Priya Nursing Home, Perambur",
+    "latitude": 13.1122071,
+    "longitude": 80.2496512,
+    "address": "Paddy Field Road, Chennai, Tamil Nadu",
+    "locality": "Ward 70",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600011",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Priya Nursing Home, Perambur"
+    ]
+  },
+  {
+    "id": "89",
+    "name": "M.K. Nursing Home",
+    "latitude": 13.1217763,
+    "longitude": 80.2858047,
+    "address": "Rathina Sabapathy Street, Chennai, Tamil Nadu",
+    "locality": "Tondiarpet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600021",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "M.K. Nursing Home"
+    ]
+  },
+  {
+    "id": "90",
+    "name": "Jayam Nursing Home",
+    "latitude": 13.122272,
+    "longitude": 80.2894968,
+    "address": "Thandavarayan Street, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600021",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Jayam Nursing Home"
+    ]
+  },
+  {
+    "id": "91",
+    "name": "Bharani Nursing Home",
+    "latitude": 13.1102609,
+    "longitude": 80.2376792,
+    "address": "Murugesan Street, Chennai, Tamil Nadu",
+    "locality": "Ward 69",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600011",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Bharani Nursing Home"
+    ]
+  },
+  {
+    "id": "92",
+    "name": "Padmini Nursing Home",
+    "latitude": 13.0727703,
+    "longitude": 80.2343653,
+    "address": "Pachaiyappas College Hostel Road, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600031",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Padmini Nursing Home"
+    ]
+  },
+  {
+    "id": "93",
+    "name": "Rajalakshmi Nursing Home",
+    "latitude": 13.084629,
+    "longitude": 80.2247456,
+    "address": "1st Avenue, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600102",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Rajalakshmi Nursing Home"
+    ]
+  },
+  {
+    "id": "94",
+    "name": "Thulasi Krishna Nursing Home, Kodambakkam",
+    "latitude": 13.0517176,
+    "longitude": 80.2300054,
+    "address": "Tailor Estate 1st Street, Chennai, Tamil Nadu",
+    "locality": "Kodambakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600024",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Thulasi Krishna Nursing Home, Kodambakkam"
+    ]
+  },
+  {
+    "id": "95",
+    "name": "R.M.D. Nursing Home",
+    "latitude": 13.0440054,
+    "longitude": 80.2355951,
+    "address": "Raghaviah Road, Chennai, Tamil Nadu",
+    "locality": "Kodambakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600017",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "R.M.D. Nursing Home"
+    ]
+  },
+  {
+    "id": "96",
+    "name": "Fathima Nursing Home",
+    "latitude": 13.1272912,
+    "longitude": 80.2461,
+    "address": "Ap Arasu Street, Chennai, Tamil Nadu",
+    "locality": "Tondiarpet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600118",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Fathima Nursing Home"
+    ]
+  },
+  {
+    "id": "97",
+    "name": "Siva Sakthi Nursing Home",
+    "latitude": 13.0605437,
+    "longitude": 80.2217663,
+    "address": "Kamaraj Nagar 4th Street, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600094",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Siva Sakthi Nursing Home"
+    ]
+  },
+  {
+    "id": "98",
+    "name": "Bagdi Nursing Home",
+    "latitude": 13.0533846,
+    "longitude": 80.2374941,
+    "address": "Dr MGR Salai, Chennai, Tamil Nadu",
+    "locality": "Teynampet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600017",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Bagdi Nursing Home"
+    ]
+  },
+  {
+    "id": "99",
+    "name": "Maayi Nursing Home",
+    "latitude": 13.1175414,
+    "longitude": 80.2286067,
+    "address": "70Ft Road, Chennai, Tamil Nadu",
+    "locality": "Ward 66",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600099",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Maayi Nursing Home"
+    ]
+  },
+  {
+    "id": "100",
+    "name": "Eswari Nursing Home",
+    "latitude": 13.1165682,
+    "longitude": 80.2263898,
+    "address": "SRP Colony 2nd Street, Chennai, Tamil Nadu",
+    "locality": "Ward 66",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600082",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Eswari Nursing Home"
+    ]
+  },
+  {
+    "id": "101",
+    "name": "Peoples Nursing Home, Chennai",
+    "latitude": 13.0696298,
+    "longitude": 80.2159499,
+    "address": "Lakshmiammal Street, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600029",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Peoples Nursing Home, Chennai"
+    ]
+  },
+  {
+    "id": "102",
+    "name": "Sampat Nursing Home",
+    "latitude": 13.0365779,
+    "longitude": 80.2728282,
+    "address": "Nachiappa Street, Chennai, Tamil Nadu",
+    "locality": "Teynampet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600004",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Sampat Nursing Home"
+    ]
+  },
+  {
+    "id": "103",
+    "name": "The Surgical Clinic and Nursing Home",
+    "latitude": 13.028161,
+    "longitude": 80.2681853,
+    "address": "Norton Road, Chennai, Tamil Nadu",
+    "locality": "Teynampet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600028",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "The Surgical Clinic and Nursing Home"
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Raju Nursing Home, Chennai",
+    "latitude": 13.1193228,
+    "longitude": 80.2254523,
+    "address": "Paper Mills Road, Chennai, Tamil Nadu",
+    "locality": "Ward 66",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600082",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Raju Nursing Home, Chennai"
+    ]
+  },
+  {
+    "id": "105",
+    "name": "Sri Meenakshi Nursing Home, Chennai",
+    "latitude": 13.041711,
+    "longitude": 80.2285827,
+    "address": "Railway Border Road, Chennai, Tamil Nadu",
+    "locality": "Kodambakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600001",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Sri Meenakshi Nursing Home, Chennai"
+    ]
+  },
+  {
+    "id": "106",
+    "name": "Kts Nursing Home",
+    "latitude": 13.12222,
+    "longitude": 80.223972,
+    "address": "Kumaran Nagar Main Road, Chennai, Tamil Nadu",
+    "locality": "Ward 64",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600099",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Kts Nursing Home"
+    ]
+  },
+  {
+    "id": "107",
+    "name": "Sri Bala Nursing Home",
+    "latitude": 13.1183119,
+    "longitude": 80.2318051,
+    "address": "Sundara Perumal Koil Street, Chennai, Tamil Nadu",
+    "locality": "Ward 66",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600082",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Sri Bala Nursing Home"
+    ]
+  },
+  {
+    "id": "108",
+    "name": "Mohan Nursing Home, Tiruvallur",
+    "latitude": 13.1025336,
+    "longitude": 80.2090412,
+    "address": "Konnur High Road, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600049",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Mohan Nursing Home, Tiruvallur"
+    ]
+  },
+  {
+    "id": "109",
+    "name": "Shepherd Nursing Home",
+    "latitude": 13.1255776,
+    "longitude": 80.2260934,
+    "address": "80 Feet Road, Chennai, Tamil Nadu",
+    "locality": "Ward 66",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600022",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Shepherd Nursing Home"
+    ]
+  },
+  {
+    "id": "110",
+    "name": "Clinic Get Well",
+    "latitude": 12.9296894,
+    "longitude": 80.1297593,
+    "address": "Ambedkar street, Tambaram, Tamil Nadu",
+    "locality": "East Tambaram",
+    "city": "Tambaram",
+    "district": "Tambaram",
+    "pincode": "600059",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Clinic Get Well"
+    ]
+  },
+  {
+    "id": "111",
+    "name": "Nalam Clinic",
+    "latitude": 13.0747088,
+    "longitude": 80.2688425,
+    "address": "Kalavai Street, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600002",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Nalam Clinic"
+    ]
+  },
+  {
+    "id": "112",
+    "name": "Dr. A Manivannan Clinic",
+    "latitude": 13.0734625,
+    "longitude": 80.2679228,
+    "address": "Guruvappa Street, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600002",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Dr. A Manivannan Clinic"
+    ]
+  },
+  {
+    "id": "113",
+    "name": "C.U. Shah Clinic And Diagnostic Center",
+    "latitude": 13.0863304,
+    "longitude": 80.2583543,
+    "address": "Ritherdon Road, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600007",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "C.U. Shah Clinic And Diagnostic Center"
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Dr. Ilavarasan Ortho Clinic",
+    "latitude": 13.074758,
+    "longitude": 80.2555444,
+    "address": "Egmore High Road, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600008",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Dr. Ilavarasan Ortho Clinic"
+    ]
+  },
+  {
+    "id": "115",
+    "name": "Kumaran Physiotherapy & Pain Relief Clinic",
+    "latitude": 13.0974459,
+    "longitude": 80.2799297,
+    "address": "Mint Street, Chennai, Tamil Nadu",
+    "locality": "Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600079",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Kumaran Physiotherapy & Pain Relief Clinic"
+    ]
+  },
+  {
+    "id": "116",
+    "name": "Dr. V.G.K Memorial Homeo Clinic",
+    "latitude": 13.0881756,
+    "longitude": 80.2418747,
+    "address": "Medavakkam Tank Road, Chennai, Tamil Nadu",
+    "locality": "Ward 74",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600010",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Dr. V.G.K Memorial Homeo Clinic"
+    ]
+  },
+  {
+    "id": "117",
+    "name": "Nandita's Clinic",
+    "latitude": 13.0719723,
+    "longitude": 80.2409391,
+    "address": "Mc Nichols Road, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600031",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Nandita's Clinic"
+    ]
+  },
+  {
+    "id": "118",
+    "name": "Dr. Sukumar's Skin Clinic",
+    "latitude": 13.070275,
+    "longitude": 80.2407506,
+    "address": "16th Avenue, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600031",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Dr. Sukumar's Skin Clinic"
+    ]
+  },
+  {
+    "id": "119",
+    "name": "Chennai Urology Clinic",
+    "latitude": 13.0428357,
+    "longitude": 80.2620778,
+    "address": "CIT Colony 1st Cross Street, Chennai, Tamil Nadu",
+    "locality": "Teynampet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600004",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Chennai Urology Clinic"
+    ]
+  },
+  {
+    "id": "120",
+    "name": "Dr. Premkumar's Orthopedic Clinic",
+    "latitude": 13.0566709,
+    "longitude": 80.2350491,
+    "address": "Nachiappan Street, Chennai, Tamil Nadu",
+    "locality": "Teynampet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600034",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Dr. Premkumar's Orthopedic Clinic"
+    ]
+  },
+  {
+    "id": "121",
+    "name": "Children's Clinic",
+    "latitude": 13.0374881,
+    "longitude": 80.2678508,
+    "address": "Thiruvika Salai, Chennai, Tamil Nadu",
+    "locality": "Teynampet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600004",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Children's Clinic"
+    ]
+  },
+  {
+    "id": "122",
+    "name": "Dr. M. Mohamed Meeran Clinic",
+    "latitude": 13.1216418,
+    "longitude": 80.2436035,
+    "address": "Chinna Kuzhandai Street, Chennai, Tamil Nadu",
+    "locality": "Ward 69",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600039",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Dr. M. Mohamed Meeran Clinic"
+    ]
+  },
+  {
+    "id": "123",
+    "name": "Apollo Clinic & Pharmacy",
+    "latitude": 13.0360972,
+    "longitude": 80.2572646,
+    "address": "CP Ramaswamy Road, Chennai, Tamil Nadu",
+    "locality": "Teynampet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600018",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Apollo Clinic & Pharmacy"
+    ]
+  },
+  {
+    "id": "124",
+    "name": "Appolo Clinic",
+    "latitude": 13.0892073,
+    "longitude": 80.2178866,
+    "address": "Anna Nagar 3rd Avenue, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600102",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Appolo Clinic"
+    ]
+  },
+  {
+    "id": "125",
+    "name": "Sai Neuro Clinic",
+    "latitude": 13.0318707,
+    "longitude": 80.2595716,
+    "address": "Krishnasamy Street, Chennai, Tamil Nadu",
+    "locality": "Teynampet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600004",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Sai Neuro Clinic"
+    ]
+  },
+  {
+    "id": "126",
+    "name": "Sri Sarada Ayurveda Clinic",
+    "latitude": 13.0297211,
+    "longitude": 80.2606156,
+    "address": "Subbarayan Salai, Chennai, Tamil Nadu",
+    "locality": "Teynampet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600028",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Sri Sarada Ayurveda Clinic"
+    ]
+  },
+  {
+    "id": "127",
+    "name": "Tamil Nadu Urological Research Centre Best Kidney Stone Clinic",
+    "latitude": 13.0748708,
+    "longitude": 80.2147555,
+    "address": "EVR Periyar Salai, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "636106",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Tamil Nadu Urological Research Centre Best Kidney Stone Clinic"
+    ]
+  },
+  {
+    "id": "128",
+    "name": "Jaya Eye Clinic",
+    "latitude": 13.116675,
+    "longitude": 80.224138,
+    "address": "Jaganathan Street, Chennai, Tamil Nadu",
+    "locality": "Ward 66",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600082",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Jaya Eye Clinic"
+    ]
+  },
+  {
+    "id": "129",
+    "name": "G K Clinic",
+    "latitude": 13.119731,
+    "longitude": 80.218505,
+    "address": "Kalaimagal Nagar Street, Chennai, Tamil Nadu",
+    "locality": "Ward 64",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600099",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "G K Clinic"
+    ]
+  },
+  {
+    "id": "130",
+    "name": "Sri Visa Clinic",
+    "latitude": 13.0312145,
+    "longitude": 80.2321847,
+    "address": "South West Boag Road, Chennai, Tamil Nadu",
+    "locality": "Kodambakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600017",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Sri Visa Clinic"
+    ]
+  },
+  {
+    "id": "131",
+    "name": "Apollo Cosmetic Clinic",
+    "latitude": 13.0177421,
+    "longitude": 80.2712363,
+    "address": "Thandavarayan Street, Chennai, Tamil Nadu",
+    "locality": "Adyar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600018",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Apollo Cosmetic Clinic"
+    ]
+  },
+  {
+    "id": "132",
+    "name": "Uma Eye Clinic Pvt.Ltd",
+    "latitude": 13.0854776,
+    "longitude": 80.2034474,
+    "address": "2nd Avenue, Anna Nagar West, Chennai, Tamil Nadu",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600040",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Uma Eye Clinic Pvt.Ltd"
+    ]
+  },
+  {
+    "id": "133",
+    "name": "Apollo Free Emergency Clinic",
+    "latitude": 13.0677233,
+    "longitude": 80.2050055,
+    "address": "MTC Busway, Chennai, Tamil Nadu",
+    "locality": "Kodambakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600107",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Apollo Free Emergency Clinic"
+    ]
+  },
+  {
+    "id": "134",
+    "name": "Spn Orthopaedic Clinic",
+    "latitude": 13.052893,
+    "longitude": 80.20767,
+    "address": "Kumaran Colony Main Road, Chennai, Tamil Nadu",
+    "locality": "Kodambakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600026",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Spn Orthopaedic Clinic"
+    ]
+  },
+  {
+    "id": "135",
+    "name": "Child Care Clinic",
+    "latitude": 13.1224029,
+    "longitude": 80.2123936,
+    "address": "Poompuhar Nagar 1st Main Road, Chennai, Tamil Nadu",
+    "locality": "Ward 64",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600082",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Child Care Clinic"
+    ]
+  },
+  {
+    "id": "136",
+    "name": "Dr. J. Sarojini Homoeopathic Clinic",
+    "latitude": 13.0509757,
+    "longitude": 80.2034981,
+    "address": "Munusamy Street, Chennai, Tamil Nadu",
+    "locality": "Kodambakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600093",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Dr. J. Sarojini Homoeopathic Clinic"
+    ]
+  },
+  {
+    "id": "137",
+    "name": "Sri Balaji Ent And Maternity Clinic",
+    "latitude": 13.0257935,
+    "longitude": 80.2227634,
+    "address": "Jones lane, Chennai, Tamil Nadu",
+    "locality": "Kodambakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600015",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Sri Balaji Ent And Maternity Clinic"
+    ]
+  },
+  {
+    "id": "138",
+    "name": "Sugam Poly Clinic",
+    "latitude": 13.0248543,
+    "longitude": 80.2208806,
+    "address": "Jones Road, Saidapet, Tamil Nadu",
+    "locality": "Kodambakkam",
+    "city": "Saidapet",
+    "district": "Chennai",
+    "pincode": "600015",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Sugam Poly Clinic"
+    ]
+  },
+  {
+    "id": "139",
+    "name": "Herba Clinic",
+    "latitude": 13.0554179,
+    "longitude": 80.1972002,
+    "address": "Kamaraj Salai, Chennai, Tamil Nadu",
+    "locality": "Kodambakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600093",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Herba Clinic"
+    ]
+  },
+  {
+    "id": "140",
+    "name": "Dr Abirami's skincare clinic",
+    "latitude": 13.0149516,
+    "longitude": 80.2307333,
+    "address": "Ponni Amman Koil Street, Chennai, Tamil Nadu",
+    "locality": "Adyar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600025",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Dr Abirami's skincare clinic"
+    ]
+  },
+  {
+    "id": "141",
+    "name": "KS Bone and Joint Clinic - Ortho",
+    "latitude": 13.026029,
+    "longitude": 80.212368,
+    "address": "B 50, Gangai Amman Koil St, Jawahar Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083, Chennai, Tamil Nadu",
+    "locality": "Kodambakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600083",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "KS Bone and Joint Clinic - Ortho"
+    ]
+  },
+  {
+    "id": "142",
+    "name": "Nivas Skin Clinic",
+    "latitude": 13.0289663,
+    "longitude": 80.2085951,
+    "address": "Inner Ring Road, Chennai, Tamil Nadu",
+    "locality": "Kodambakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600083",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Nivas Skin Clinic"
+    ]
+  },
+  {
+    "id": "143",
+    "name": "Swathy Clinic",
+    "latitude": 13.0488672,
+    "longitude": 80.1938731,
+    "address": "Reddy Street, Chennai, Tamil Nadu",
+    "locality": "Kodambakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "600092",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Photon",
+    "aliases": [
+      "Swathy Clinic"
+    ]
+  },
+  {
+    "id": "144",
+    "name": "Appasamy Hospitals",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "address": "",
+    "locality": "",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Manual",
+    "aliases": [
+      "Appasamy Hospitals"
+    ]
+  },
+  {
+    "id": "145",
+    "name": "MGM Healthcare",
+    "latitude": 13.0732,
+    "longitude": 80.2222,
+    "address": "",
+    "locality": "Aminjikarai",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Manual",
+    "aliases": [
+      "MGM Healthcare",
+      "MGM Hospital",
+      "MGM"
+    ]
+  },
+  {
+    "id": "146",
+    "name": "M.R. Hospital",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "address": "",
+    "locality": "",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Manual",
+    "aliases": [
+      "M.R. Hospital"
+    ]
+  },
+  {
+    "id": "147",
+    "name": "Noble Hospital",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "address": "",
+    "locality": "Purasaiwakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Manual",
+    "aliases": [
+      "Noble Hospital",
+      "Noble"
+    ]
+  },
+  {
+    "id": "148",
+    "name": "Faith Multispecialty Hospital",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "address": "",
+    "locality": "Anna Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Manual",
+    "aliases": [
+      "Faith Multispecialty Hospital"
+    ]
+  },
+  {
+    "id": "149",
+    "name": "Murugan Hospital",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "address": "",
+    "locality": "Kilpauk",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Manual",
+    "aliases": [
+      "Murugan Hospital",
+      "Murugan Hospitals"
+    ]
+  },
+  {
+    "id": "150",
+    "name": "B.M. Hospital Nanganallur",
+    "latitude": 12.9772,
+    "longitude": 80.1904,
+    "address": "",
+    "locality": "Nanganallur",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Manual",
+    "aliases": [
+      "B.M. Hospital Nanganallur",
+      "BM Hospital",
+      "B M Hospital"
+    ]
+  },
+  {
+    "id": "151",
+    "name": "Indian Hospital",
+    "latitude": 13.0691,
+    "longitude": 80.2078,
+    "address": "",
+    "locality": "",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Manual",
+    "aliases": [
+      "Indian Hospital"
+    ]
+  },
+  {
+    "id": "152",
+    "name": "Apollo Main Hospital",
+    "latitude": 13.0617,
+    "longitude": 80.2488,
+    "address": "",
+    "locality": "",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Manual",
+    "aliases": [
+      "Apollo Main Hospital"
+    ]
+  },
+  {
+    "id": "153",
+    "name": "Sri Ramachandra Medical Centre",
+    "latitude": 13.0396,
+    "longitude": 80.1472,
+    "address": "",
+    "locality": "",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Manual",
+    "aliases": [
+      "Sri Ramachandra Medical Centre"
+    ]
+  },
+  {
+    "id": "154",
+    "name": "MMM Hospital",
+    "latitude": 13.0827,
+    "longitude": 80.1916,
+    "address": "Mugappair, Chennai, Tamil Nadu",
+    "locality": "Mugappair",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Manual",
+    "aliases": [
+      "MMM Healthcare",
+      "Madras Medical Mission"
+    ]
+  },
+  {
+    "id": "155",
+    "name": "Appasamy Hospitals",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "address": "Arumbakkam, Chennai, Tamil Nadu",
+    "locality": "Arumbakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "pincode": "",
+    "operator": "",
+    "operatorType": "Private",
+    "emergency": "Available",
+    "phone": "",
+    "website": "",
+    "source": "Manual",
+    "aliases": [
+      "Appasamy Hospital"
+    ]
+  }
+]

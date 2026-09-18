@@ -1,0 +1,281 @@
+.intro-cinematic-container {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  background-color: #050510;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  perspective: 1000px;
+}
+
+/* Background */
+.intro-bg {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 50% 60%, #1a1a2e 0%, #050510 60%);
+  opacity: 0;
+  transition: opacity 1s ease;
+}
+
+.stage-1 .intro-bg,
+.stage-2 .intro-bg,
+.stage-3 .intro-bg,
+.stage-4 .intro-bg,
+.stage-5 .intro-bg {
+  opacity: 1;
+}
+
+/* Ground Reflection */
+.intro-ground {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 40%;
+  background: linear-gradient(180deg, rgba(255,255,255,0.05) 0%, transparent 100%);
+  transform: scaleY(-1);
+  opacity: 0;
+  transition: opacity 1s ease;
+  filter: blur(10px);
+}
+
+.stage-3 .intro-ground,
+.stage-4 .intro-ground,
+.stage-5 .intro-ground {
+  opacity: 0.5;
+}
+
+/* Ambulance Container */
+.intro-ambulance-container {
+  position: absolute;
+  width: 600px;
+  height: auto;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: translateX(100vw) translateZ(-500px) rotateY(-15deg); /* Start off-screen right */
+  opacity: 0;
+  transition: transform 1s cubic-bezier(0.25, 1, 0.5, 1), opacity 0.5s ease;
+  will-change: transform;
+}
+
+.intro-ambulance-img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  /* Now it's a transparent PNG, no mix-blend-mode needed! */
+}
+
+/* Stage 1: Enters from Right (fast blur) */
+.stage-1 .intro-ambulance-container {
+  opacity: 1;
+  transform: translateX(30vw) translateZ(-200px) rotateY(-5deg);
+  transition: transform 0.4s cubic-bezier(0.1, 0.8, 0.2, 1);
+  filter: blur(2px) drop-shadow(0 0 20px rgba(255, 255, 255, 0.2));
+}
+
+/* Stage 2: Moves & Drifts (slowing down, slight drift) */
+.stage-2 .intro-ambulance-container {
+  opacity: 1;
+  transform: translateX(10vw) translateZ(-50px) rotateY(-2deg);
+  transition: transform 1s cubic-bezier(0.2, 0.9, 0.4, 1);
+  filter: blur(0px) drop-shadow(0 15px 30px rgba(0, 0, 0, 0.8));
+}
+
+/* Stage 3: Stops at Center */
+.stage-3 .intro-ambulance-container,
+.stage-4 .intro-ambulance-container {
+  opacity: 1;
+  transform: translateX(0) translateZ(0) rotateY(0deg);
+  transition: transform 1s cubic-bezier(0.1, 0.9, 0.3, 1);
+  filter: drop-shadow(0 20px 40px rgba(0, 0, 0, 0.9));
+}
+
+/* Stage 5: Logo fixed, ambulance fades/shrinks slightly */
+.stage-5 .intro-ambulance-container {
+  opacity: 0.8;
+  transform: translateX(0) translateZ(-100px) translateY(20px) scale(0.9);
+  transition: transform 1s cubic-bezier(0.4, 0, 0.2, 1), opacity 1s ease;
+}
+
+.stage-6 .intro-ambulance-container {
+  opacity: 0;
+  transform: translateX(0) translateZ(-200px) translateY(40px) scale(0.8);
+  transition: all 0.5s ease;
+}
+
+/* Siren Lights (Attached to Ambulance) */
+.siren-light {
+  position: absolute;
+  top: 12%;
+  width: 50px;
+  height: 20px;
+  border-radius: 50%;
+  filter: blur(15px);
+  opacity: 0;
+  mix-blend-mode: screen;
+}
+
+.red-siren {
+  left: 20%;
+  background-color: #ff0000;
+  box-shadow: 0 0 80px 30px #ff0000;
+}
+
+.blue-siren {
+  right: 20%;
+  background-color: #0044ff;
+  box-shadow: 0 0 80px 30px #0044ff;
+}
+
+.stage-2 .red-siren, .stage-3 .red-siren, .stage-4 .red-siren, .stage-5 .red-siren,
+.stage-2 .blue-siren, .stage-3 .blue-siren, .stage-4 .blue-siren, .stage-5 .blue-siren {
+  animation: sirenFlash 0.3s infinite alternate;
+}
+.blue-siren {
+  animation-delay: 0.15s !important;
+}
+
+@keyframes sirenFlash {
+  0% { opacity: 0.2; transform: scale(0.8); }
+  100% { opacity: 0.9; transform: scale(1.5); }
+}
+
+/* Headlights */
+.headlight {
+  position: absolute;
+  bottom: 25%;
+  width: 40px;
+  height: 40px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  filter: blur(20px);
+  box-shadow: 0 0 100px 50px rgba(255, 255, 255, 0.8);
+  opacity: 0;
+}
+
+.left-headlight { left: 15%; }
+.right-headlight { right: 15%; }
+
+.stage-3 .headlight, .stage-4 .headlight, .stage-5 .headlight {
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+/* Logo */
+.intro-logo-container {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10; /* BEHIND ambulance */
+  pointer-events: none;
+}
+
+.intro-logo {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  transform: translateY(20px) scale(0.8);
+  opacity: 0;
+  transition: all 1s cubic-bezier(0.1, 0.9, 0.3, 1);
+  filter: drop-shadow(0 0 20px rgba(239, 68, 68, 0.5));
+}
+
+.intro-logo-icon {
+  color: #ef4444;
+}
+
+.intro-logo-text h1 {
+  color: white;
+  margin: 0;
+  font-size: 3.5rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  line-height: 1;
+}
+
+.intro-logo-text h1 span {
+  color: #ef4444;
+}
+
+.intro-logo-text p {
+  color: #cbd5e1;
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+/* Stage 4: Logo appears from behind */
+.stage-4 .intro-logo {
+  opacity: 1;
+  transform: translateY(-80px) scale(1); /* Reveal above the ambulance roof */
+  filter: drop-shadow(0 0 40px rgba(239, 68, 68, 0.8));
+}
+
+/* Stage 5: Logo fixes at top center */
+.stage-5 .intro-logo-container {
+  z-index: 30; /* Bring above everything */
+}
+.stage-5 .intro-logo {
+  opacity: 1;
+  transform: translateY(-250px) scale(0.8); /* Move to header position */
+  filter: drop-shadow(0 0 10px rgba(239, 68, 68, 0.3));
+}
+
+/* Stage 6: Fade out */
+.stage-6 .intro-logo {
+  opacity: 0;
+  transform: translateY(-260px) scale(0.8);
+  transition: opacity 0.4s ease;
+}
+
+/* Fade Overlay for transition to homepage */
+.intro-fade-overlay {
+  position: absolute;
+  inset: 0;
+  background-color: #0f172a; /* Match homepage background */
+  opacity: 0;
+  z-index: 100;
+  pointer-events: none;
+  transition: opacity 0.5s ease;
+}
+
+.stage-6 .intro-fade-overlay {
+  opacity: 1;
+}
+
+/* Smoke / Particles */
+.intro-smoke {
+  position: absolute;
+  bottom: 10%;
+  width: 300px;
+  height: 150px;
+  background: radial-gradient(ellipse at center, rgba(200,200,200,0.1) 0%, transparent 70%);
+  filter: blur(30px);
+  opacity: 0;
+  z-index: 15;
+  transform: scale(0.5);
+  transition: all 1s ease;
+}
+
+.left-smoke { left: 20%; }
+.right-smoke { right: 20%; }
+
+.stage-2 .intro-smoke,
+.stage-3 .intro-smoke {
+  opacity: 1;
+  transform: scale(1.5) translateX(-50px);
+  animation: driftSmoke 3s infinite alternate;
+}
+
+@keyframes driftSmoke {
+  0% { transform: scale(1.5) translateX(-50px) translateY(0); opacity: 0.8; }
+  100% { transform: scale(1.8) translateX(-70px) translateY(-20px); opacity: 0.5; }
+}
