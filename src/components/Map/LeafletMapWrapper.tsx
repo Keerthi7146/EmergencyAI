@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 import { MapContainer, TileLayer, Marker, Polyline, useMap } from 'react-leaflet';
 import L from 'leaflet';
 import { useEmergencyStore } from '../../store/useEmergencyStore';
-import { calculateEmergencyRoutes } from '../../services/routing';
+
 import hospitalsData from '../../data/hospitals.json';
 
 // Helper component to center map and recalculate route
@@ -10,7 +10,6 @@ function MapController() {
   const map = useMap();
   const { 
     startLocation, 
-    destination, 
     alternativeRoutes,
     journeyState,
     ambulanceTelemetry

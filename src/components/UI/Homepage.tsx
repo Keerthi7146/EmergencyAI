@@ -1,6 +1,6 @@
 import { useEmergencyStore } from '../../store/useEmergencyStore';
 import { LocationSearch } from '../Search/LocationSearch';
-import { Ambulance, MapPin, ShieldAlert, Zap, ShieldCheck, Building2, Timer, Phone, Crosshair, Search, ArrowRight } from 'lucide-react';
+import { ShieldAlert, MapPin, Zap, ShieldCheck, Building2, Timer, Phone, Crosshair, Search, ArrowRight } from 'lucide-react';
 import './Homepage.css';
 
 export function Homepage() {

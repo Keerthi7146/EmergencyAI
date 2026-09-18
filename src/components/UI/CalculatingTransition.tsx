@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { ShieldAlert, CheckCircle2 } from 'lucide-react';
+import { CheckCircle2 } from 'lucide-react';
 import './CalculatingTransition.css';
 
 export function CalculatingTransition() {

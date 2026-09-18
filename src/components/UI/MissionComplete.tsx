@@ -1,5 +1,5 @@
 import { useEmergencyStore } from '../../store/useEmergencyStore';
-import { ShieldAlert, CheckCircle, RotateCcw, Home } from 'lucide-react';
+import { CheckCircle, RotateCcw, Home } from 'lucide-react';
 import './MissionComplete.css';
 
 export function MissionComplete() {

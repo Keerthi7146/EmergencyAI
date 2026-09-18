@@ -65,8 +65,7 @@ export function useAmbulanceSimulator() {
     updateTelemetry, 
     addLog,
     incidents,
-    recalculateFromCurrentLocation,
-    setAppFlowState
+    recalculateFromCurrentLocation
   } = useEmergencyStore();
   
   const simulationRef = useRef<{

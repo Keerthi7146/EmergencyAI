@@ -1,5 +1,5 @@
 import { useEmergencyStore } from '../../store/useEmergencyStore';
-import { Ambulance, MapPin, Navigation, Clock, Activity, ShieldAlert, CheckCircle2, ChevronRight, X } from 'lucide-react';
+import { Ambulance, MapPin, Navigation, Activity, ShieldAlert, CheckCircle2, ChevronRight, X } from 'lucide-react';
 import { useState } from 'react';
 
 export function ControlPanel() {
